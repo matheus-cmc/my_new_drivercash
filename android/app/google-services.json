@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "721836766393",
+    "project_id": "financeiro-2b660",
+    "storage_bucket": "financeiro-2b660.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721836766393:android:4d5bba4dd62ab3f683d768",
+        "android_client_info": {
+          "package_name": "com.drivercash.financeiroapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBONRV6TY9tJzyer_NCyn3zl5sM_mEaK54"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
